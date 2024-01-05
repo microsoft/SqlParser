@@ -4,6 +4,8 @@ This repo currently serves as a way to file issues, request enhancements or ask 
 
 This library provides basic syntax parsing and binding for the T-SQL language for many versions and editions of Microsoft SQL Server and Azure SQL Database.
 
+The license and contribution information in this repo does NOT apply to the Microsoft.SqlServer.Management.SqlParser library itself. See the Nuget page above for licensing and other information.
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
