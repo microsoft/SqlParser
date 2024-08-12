@@ -1,10 +1,17 @@
 # Microsoft.SqlServer.Management.SqlParser
 
-This repo currently serves as a way to file issues, request enhancements or ask questions about the [Microsoft.SqlServer.Management.SqlParser](https://www.nuget.org/packages/Microsoft.SqlServer.Management.SqlParser) library.
+The SqlParser library provides basic syntax parsing and binding for the T-SQL language for many versions and editions of Microsoft SQL Server and Azure SQL Database. This repo currently serves as a way to file issues, request enhancements or ask questions about the [Microsoft.SqlServer.Management.SqlParser](https://www.nuget.org/packages/Microsoft.SqlServer.Management.SqlParser) library.  
 
-This library provides basic syntax parsing and binding for the T-SQL language for many versions and editions of Microsoft SQL Server and Azure SQL Database.
+> [!NOTE]
+> The license and contribution information in this repo does NOT apply to the Microsoft.SqlServer.Management.SqlParser library itself. See the Nuget page above for licensing and other information. The SqlParser library is not open source, but we welcome feedback and questions about the library here.
 
-The license and contribution information in this repo does NOT apply to the Microsoft.SqlServer.Management.SqlParser library itself. See the Nuget page above for licensing and other information.
+- 📦 [Get the SqlParser library from nuget.org](https://www.nuget.org/packages/Microsoft.SqlServer.Management.SqlParser)
+- 📖 [Check out the API documentation](https://docs.microsoft.com/dotnet/api/microsoft.sqlserver.management.sqlparser.parser)
+
+## Related libraries
+
+- [Sql Management Objects (SMO)](https://github.com/microsoft/sqlmanagementobjects): an API for scripting and managing SQL Server and Azure SQL Database, open source
+- [ScriptDOM parser](https://github.com/microsoft/sqlscriptdom): an API for parsing T-SQL statements and interacting with its abstract syntax tree, open source
 
 ## Contributing
 
